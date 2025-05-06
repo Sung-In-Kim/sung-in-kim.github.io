@@ -1,4 +1,4 @@
-Summer 2025: Office hour appointments during the summer are only available via email. 
+Summer: Office hour appointments during the summer are only available via email. 
 
 During the academic year:
 To sign up for office hours with me, use this link:
