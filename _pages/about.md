@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate in the Department of Government at Harvard University. I study comparative political economy and political behavior. I am particularly interested in the political consequences of structural economic changes and economic shocks in advanced democracies, including deindustrialization, green transitions, and recessions. 
+Welcome! I am a Ph.D. candidate in the Department of Government at Harvard University. I study comparative political economy and political behavior in advanced democracies, focusing on the political consequences of structural economic transitions to knowledge and green economies. 
 
-My dissertation asks: why do voters facing economic transitions sometimes shift to the left and demand compensation from the state, while at other times they move to the right and support candidates offering exclusionary and protectionist policies? My argument highlights the roles that political parties play in determining voters’ responses to economic shocks.
+My broad research examines how voters and communities respond to rising economic inequality from deindustrialization, globalization, technological change, and green transitions; and how economic change transforms the nature of political conflicts across geographies. Specifically, my dissertation asks: why do voters facing economic transitions sometimes shift to the left and demand compensation from the state, while at other times they turn to the right and support candidates who offer exclusionary and protectionist policies? My argument highlights how concurrent transformations in political parties and welfare states have reshaped voter responses to economic shocks.
 
 You can find my CV [here](https://sung-in-kim.github.io/files/CV_SungInKim.pdf).
 
