@@ -1,38 +1,28 @@
 works:
 
-- title: "Not Learning from Others"
-  pdflink: "/pdf/Not Learning from Others.pdf"
-  coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  book: "Revised and Resubmitted, Econometrica"
-  note: "Current Version: October 2022"
-  links:
-    - url: "https://www.socialscienceregistry.org/trials/4253"
-      text: "Pre-Registration"
+- title: "Left Behind by the Left? Deindustrialization and Voting in the UK, 1974-2019"
+  #pdflink: "/pdf/leftbebhind.pdf"
+  #coauthors: ""
+  book: "Job Market Paper"
+  note: "Draft Available Upon Request"
+  #links:
+    #- url: ""
+    #  text: ""
   abstract: >
-      We provide evidence of a powerful barrier to social learning: people are much less sensitive to information others discover compared to equally-relevant information they discover themselves. In a series of incentivized lab experiments, we ask participants to guess the color composition of balls in an urn after drawing balls with replacement. Participants' guesses are substantially less sensitive to draws made by another player compared to draws made themselves. This result holds when others' signals must be learned through discussion, when they are perfectly communicated by the experimenter, and even when participants see their teammate drawing balls from the urn with their own eyes. We find a crucial role for  taking some action to generate one's `own' information, and rule out distrust, confusion, errors in probabilistic thinking, up-front inattention and imperfect recall as channels.
+      Why do voters exposed to localized economic shocks not support left-wing parties? I argue that the center-left party's pivot to new middle-class voters can account for this pattern. Drawing on local- and individual-level data spanning the past 50 years in the UK and using a shift-share approach, I show that local exposure to deindustrialization shocks increased support for Labour in the 1970-80s, when Labour remained loyal to traditional manufacturing industries. This electoral support was accompanied by increasing support for redistribution and social benefits for the unemployed. However, as Labour began to pivot towards growing service and knowledge-based industries in the 1990s, deindustrialization shocks no longer translated into a leftward shift. To shed light on mechanisms behind this change, I show that the reversal in voter responses mainly took place in constituencies exposed to New Labour candidates. I do not find evidence supporting alternative mechanisms that emphasize voters' conservative attitudes, the supply of radical right parties, or the decline of trade unions.
 
-- title: "The Endowment Effect and Collateralized Loans"
-  pdflink: "/pdf/Rao_Endowment_Effect_Collateralized_Loans.pdf"
-  coauthors: "Kevin Carney, Michael Kremer and Xinyue Lin"
-  book: "Revise and Resubmit, Econometrica"
-  note: "Current Version: May 2022"
+- title: "Coal Phase-out and Backlash Against Green Transitions in EP Elections"
+  #pdflink: "/pdf/coal.pdf"
+  #coauthors: ""
+  book: "Under Review"
+  #note: "Current Version: June 2025"
   abstract: >
-      Collateral requirements play an important role in credit markets. This paper shows that the endowment effect---the phenomenon where owing a good increases one's valuation of it---inhibits demand for loans which use a borrower's existing assets as collateral. Using a field experiment in Kenya, we show that borrowers instead strongly prefer loans collateralized using the new durable assets being financed by the loans themselves. They are willing to pay 9% per month higher interest for such Same-Asset Collateralized Loans (SACLs) despite the endowed and new assets being randomized, and thus similarly valued before ownership. Our findings imply that assets which are difficult to use as collateral---which cannot be financed by SACLs---will be invested in less, even if the borrower has other collateral. We argue that borrowers' preference for SACLs is driven by naivete: they initially perceive that they have little to lose when offered a SACL, but subsequently come to develop an attachment to the new asset, resulting in high repayment effort. Consistent with this, borrowers underestimate their future attachment to an asset before owning it, and SACLs do not have higher default rates despite having higher demand. We derive the conditions under which offering consumers SACLs increases or conversely decreases borrower welfare.
-
-- title: "Learning in the Household"
-  pdflink: "/pdf/Learning in the Household.pdf"
-  coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  note: "New Version: October 2022"
-  links:
-    - url: "https://www.socialscienceregistry.org/trials/4253"
-      text: "Pre-Registration"
+      While phasing out coal is essential to address climate change, fossil fuel-dependent communities with limited alternative industries may face significant distributional costs. Drawing on regional-level data from European Parliament elections and individual-level survey data, this paper examines the political consequences of coal-fired power plant closures across 15 European countries between 2005 and 2019. Using a staggered difference-in-differences design, I find that closures reduce support for parties advocating green transitions in EP elections. Furthermore, combining local- and individual-level data, I provide evidence that dissatisfaction with local public services may underpin this backlash. These findings suggest that regional economic losses from coal phase-out are often attributed not only domestically but also to EU-level policymaking, highlighting the need for EU-wide policies to compensate communities for lost tax revenues to sustain international cooperation for green transitions. 
+      
+- title: "Transitory Shocks, Permanent Shocks, and Voting Behavior"
+  #pdflink: "/pdf/transitory_permanent.pdf"
+  #coauthors: ""
+  #note: "New Version: August 2025"
   abstract: >
-      Do spouses pool useful information and  learn from each other when they have incentives to do so? In an experiment with married couples in India, we vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their own and their husband's information the same. In contrast, men respond half as much to information discovered by their wife, even when it is perfectly communicated. When paired with strangers, both men and women heavily discount their partner's information relative to their own. We thus provide evidence of a gender difference in social learning (only)  in the household.
-
-- title: "The Long-Run Effects of Psychotherapy on Depression, Beliefs, and Economic Outcomes"
-  pdflink: "/pdf/Rao_psychotherapy_paper.pdf"
-  coauthors: "Bhargav Bhat, Jon de Quidt, Johannes Haushofer, Vikram Patel, Frank Schilbach and Pierre-Luc Vautrey"
-  note: "Current Version: April 2022"
-  abstract: >
-      We revisit two clinical trials that randomized depressed adults in India (n=775) to a brief course of psychotherapy or a control condition. Four to five years later, the treatment group had 11 percentage points less depression than the control group. The more effective intervention averted 9 months of depression on average over five years and cost only \$66. Therapy changed people's beliefs about themselves in three ways. First, it reduced their likelihood of seeing themselves as a failure or feeling bad about themselves. Second, when faced with a novel work opportunity, therapy reduced over-optimistic belief updating and thus reduced overconfidence. Third, it increased self-assessed levels of patience and altruism. Therapy did not increase levels of employment or consumption, possibly because of other constraints on employment in the largely female study sample.  
-
+      Why do some economic shocks generate leftward electoral shifts while others lead to rightward shifts? This paper argues that the types of shocks and the associated credibility of compensation matter. Transitory shocks strengthen voters’ demand for redistribution and this demand has been met by the supply of short-term compensation policies typically from left‐wing parties. While permanent shocks also increase demands for redistribution, in addition they heighten the salience of threats to social status and fuel nativist attitudes. When long‐term compensation is perceived as inadequate and less credible, the status concern tends to dominate voting decisions. I test empirical implications of this theory with multiple survey datasets. First, I present evidence that cyclical recessions tend to be perceived as transitory and structural changes like skill-biased technological change and deindustrialization are perceived as permanent. Second, I create a novel measure of transitory and permanent shocks using the German socioeconomic panel and show that they are distinctively associated with voting for radical left- and radical right parties. 
+      
