@@ -1,6 +1,6 @@
 relativeURLs = true
 title = "Sung In Kim"
-theme = "academimal"
+theme = "academimal-theme"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
