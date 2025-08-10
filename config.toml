@@ -4,6 +4,7 @@ theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+googleAnalytics = ""
 
 [params]
     shortbio = "Ph.D. Candidate in Government, Harvard University"
