@@ -2,4 +2,4 @@ I am a Ph.D. candidate in the Department of Government at Harvard University. I 
 
 My research examines how voters and communities respond to rising economic inequality from deindustrialization, globalization, technological change, and green transitions; and how economic change transforms the nature of political conflicts across geographies. Specifically, my dissertation asks: why do voters facing economic transitions sometimes shift to the left and demand compensation from the state, while at other times they turn to the right and support candidates who offer exclusionary and protectionist policies? My argument highlights how concurrent transformations in political parties and welfare states have reshaped voter responses to economic shocks.
 
-__[Curriculum Vitae](/static/pdf/Kim_CV.pdf")__ (Updated August 2025)
+__[Curriculum Vitae](/static/pdf/Kim_CV.pdf)__ (Updated August 2025)
