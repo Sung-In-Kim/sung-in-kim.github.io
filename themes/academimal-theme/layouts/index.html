@@ -1,5 +1,5 @@
 {{ define "main" -}}
-<h2 id="bio">Bio</h2>
+<h2 id="bio">Welcome</h2>
 {{ with .GetPage "/sections/aboutme.md" }}
 {{ .Content }}
 {{ end }}
@@ -11,11 +11,11 @@
 {{ .Content }}
 {{ end }}
 
-{{ with .GetPage "/sections/office-hours.md" }}
+{{/* with .GetPage "/sections/office-hours.md" }}
 <hr>
 <h2 id="officehours">Office Hours</h2>
 {{ .Content }}
-{{ end }}
+{{ end */}}
 
 {{ $scratch := newScratch }}
 {{ $scratch.Set "pubcnt" 0 }}
@@ -62,7 +62,7 @@
 
 {{ with .GetPage "/sections/personal.md" }}
 <hr>
-<h2 id="personal">Personal</h2>
+<h2 id="personal"> </h2>
 {{ .Content }}
 {{ end }}
 
