@@ -3,6 +3,10 @@ works:
   pdflink: "https://journals.sagepub.com/doi/abs/10.1177/00104140231193013"
   book: "Comparative Political Studies, 2024"
   coauthors: "Peter Hall"
+  remarks: 
+    note: "Media Coverage"
+    text: "Washington Post"
+    link: "https://www.washingtonpost.com/opinions/2025/10/24/democracy-trust-populism-institutions-politics/"
   #note: 
   #links:
   #  - url: ""
