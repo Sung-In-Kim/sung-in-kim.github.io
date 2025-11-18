@@ -9,9 +9,10 @@
 
 {{ with .context.links }}
   <p style="margin:0 0 5px;">
+    {{ $total := len . }}
     {{ range $i, $link := . }}
       {{ with $link.note }}{{ . }}: {{ end }}
-      <a href="{{ $link.url }}" target="_blank">{{ $link.text }}</a>{{ if not (eq (add $i 1) (len .)) }}, {{ end }}
+      <a href="{{ $link.url }}" target="_blank">{{ $link.text }}</a>{{ if lt (add $i 1) $total }}, {{ end }}
     {{ end }}
   </p>
 {{ end }}
