@@ -5,7 +5,7 @@ works:
   coauthors: "Peter Hall"
   
   links:
-    - title: "Media Coverage"
+    - linktitle: "Media Coverage"
       items:
       - url: "https://www.washingtonpost.com/opinions/2025/10/24/democracy-trust-populism-institutions-politics/"
         text: "Washington Post"
