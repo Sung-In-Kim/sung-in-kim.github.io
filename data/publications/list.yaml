@@ -8,9 +8,9 @@ works:
   #  link: "https://www.washingtonpost.com/opinions/2025/10/24/democracy-trust-populism-institutions-politics/"
   #note: 
   links:
-    - text: "Media Coverage"
-    - url: "https://www.washingtonpost.com/opinions/2025/10/24/democracy-trust-populism-institutions-politics/"
-      text: "Washington Post"
+    #- text: "Media Coverage"
+    #- url: "https://www.washingtonpost.com/opinions/2025/10/24/democracy-trust-populism-institutions-politics/"
+    #  text: "Washington Post"
   #links:
   #  - url: "https://www.washingtonpost.com/opinions/2025/10/24/democracy-trust-populism-institutions-politics/"
   #    text: "Washington Post"
