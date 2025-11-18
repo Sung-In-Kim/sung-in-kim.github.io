@@ -10,7 +10,6 @@
 {{ with .context.links }}
 <p style="margin:0 0 5px;">
 {{ with .title }}<strong>{{ . }}:</strong> {{ end }}
-{{ range $i, $link := .items }}{{ if $i }}, {{ end }}<a href="{{ $link.url }}" target="blank">{{ $link.text }}</a>{{ with $link.note }}: {{ $link.note }}{{ end }}{{ end }}
+{{ range $i, $link := .items }}{{ if $i }}, {{ end }}<a href="{{ $link.url }}" target="blank">{{ $link.text }}</a>{{ with $link.note }} ({{ . }}){{ end }}{{ end }}
 </p>
 {{ end }}
-
