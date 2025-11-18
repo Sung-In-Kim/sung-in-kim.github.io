@@ -8,8 +8,12 @@
 {{ with .context.abstract }}<p style="margin:0 0 5px;"><a href="javascript:toggle({{ $pid }})">Abstract<span id="pubabslink_{{ $pid }}"> (click to expand)</span></a><span id="pubabs_{{ $pid }}" style="display:none;">: {{ . }}</span></p>{{ end }}
 
 {{ with .context.links }}
-{{ range . }}
-<p style="margin:0 0 5px;"><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
+  {{ range . }}
+    <p style="margin:0 0 5px;">
+      {{ with .title }}{{ . }}: {{ end }}
+      {{ range $i, $item := .items }}
+        <a href="{{ $item.url }}" target="_blank">{{ $item.text }}</a>{{ if not (eq (add $i 1) (len .items)) }}, {{ end }}
+      {{ end }}
+    </p>
+  {{ end }}
 {{ end }}
-{{ end }}
-
